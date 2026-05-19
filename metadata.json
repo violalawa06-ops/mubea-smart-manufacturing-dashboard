@@ -1,0 +1,6 @@
+{
+  "name": "Mubea Smart Manufacturing Dashboard",
+  "description": "A role-specific industrial dashboard for Mubea Taicang, featuring real-time IoT monitoring, AI-powered production analytics, and lean manufacturing optimization tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
